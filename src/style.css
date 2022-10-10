@@ -11,6 +11,25 @@ body {
 }
 .sidebar {
   background-color: #1e2939;
+  padding-top: 40px;
+  width: 370px;
+}
+
+.photo {
+  width: 370px;
+  margin-bottom: 50px;
+}
+.sidebar_title {
+  color: #fff;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-left: ;
+}
+.sidebar_group {
+  margin-left: 40px;
 }
 
 .left {
